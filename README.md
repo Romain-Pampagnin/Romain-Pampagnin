@@ -1,5 +1,10 @@
-## Hi there 👋
+## Bienvenue sur mon profil Github !
 
+Futur développeur multi-casquette, je me forme au développement d'applications et j'expérimente mille et unes choses.
+Je suis (entre autres) infirmier, musicien, modèle.
+
+Vous trouverez en projets épinglés :
+- 
 <!--
 **Romain-Pampagnin/Romain-Pampagnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
