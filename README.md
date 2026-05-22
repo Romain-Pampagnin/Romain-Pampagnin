@@ -10,12 +10,65 @@ Je suis (entre autres) infirmier, musicien, modèle.
 - **laGrandeMag** : un projet personnel de portfolio que je développe pour l'artiste plasticienne la grande Mag
 
 ## Je travaille avec
-Langages : \
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,java,sqlite,html,css,js)](https://skillicons.dev) \
-Outils : \
-[![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,gitlab,docker)](https://skillicons.dev) \
-Programmes : \
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,ai,ps,id)](https://skillicons.dev)
+
+Langages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="26" alt="c logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="java logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bash" height="26" alt="bash logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="26" alt="sqlite logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="javascript logo"  />
+</div>
+
+
+Outils
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="26" alt="git logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="26" alt="github logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="26" alt="gitlab logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="26" alt="dot-net logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="26" alt="docker logo"  />
+</div>
+
+
+Programmes
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ai" height="26" alt="adobeillustrator logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ps" height="26" alt="adobephotoshop logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="26" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="26" alt="visualstudio logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=idea" height="26" alt="intellijidea logo"  />
+</div>
+
+## Statistiques
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Romain-Pampagnin/Romain-Pampagnin/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Romain-Pampagnin/Romain-Pampagnin/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Romain-Pampagnin/Romain-Pampagnin/activity-graph-output/activity-graph.svg" height="150" alt="activity-graph graph"  />
+</div>
+
+
+
+
 
 <!--
 **Romain-Pampagnin/Romain-Pampagnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
