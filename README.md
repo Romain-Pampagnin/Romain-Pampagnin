@@ -1,10 +1,13 @@
 ## Bienvenue sur mon profil Github !
 
-Futur développeur multi-casquette, je me forme au développement d'applications et j'expérimente mille et unes choses.
+Futur développeur multi-casquettes, je me forme au développement d'applications et j'expérimente mille et une choses. \
+\
 Je suis (entre autres) infirmier, musicien, modèle.
 
-Vous trouverez en projets épinglés :
-- 
+## Projets épinglés :
+- **inscryption** : un projet étudiant de programation orientée objet reproduisant le deck builder éponyme
+- **odysseus** : un projet étudiant de gestion de missions d'exploration spatiale, melant C#, framework .net et SQL
+- **laGrandeMag** : un projet personnel de portfolio que je développe pour l'artiste plasticienne la grande Mag
 <!--
 **Romain-Pampagnin/Romain-Pampagnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
