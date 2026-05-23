@@ -1,6 +1,9 @@
 ## Bienvenue sur mon profil Github !
 
-Futur développeur multi-casquettes, je me forme au développement d'applications et j'expérimente mille et une choses. \
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Romain-Pampagnin/Romain-Pampagnin/blob/main/README.en.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/Romain-Pampagnin/Romain-Pampagnin/blob/main/README.md)
+
+Futur développeur multi-casquettes, je me forme au développement d'applications et j'expérimente mille et une choses.
 \
 Je suis (entre autres) infirmier, musicien, modèle.
 
